@@ -25,5 +25,13 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 
 ## Projects
 
+insert projects here lol
+
+## Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=demul1&count_private=true&theme=tokyonight&showicons=true)]()
+
+## Languages and skills
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&langs_count=5&theme=tokyonight)]()
+
 
 
