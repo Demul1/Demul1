@@ -25,7 +25,7 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 
 ## Projects
 
-insert projects here lol
+I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on the Polygon Netowork. The DEX, token, and code will be available soon. 
 
 ## Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=demul1&count_private=true&theme=tokyonight&showicons=true)]()
