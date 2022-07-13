@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 I am a developer, who has a lot of experience in the cryptocurrency area as well as in game development. Some of my other hobbies include Tennis, watching movies, and reading. Some of the langauges I know include Solidity, Javascript, Python, C#, and HTML/CSS (if you count those). I have experience using Unity and Unreal Engine for game development.
 
-## Contact Info
-#### Email: demulcc@gmail.com
-#### Discord: [Demul#4757](https://discord.com/channels/@me)
-
-## Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=demul1&count_private=true&theme=tokyonight&showicons=true)]()
-
 ## Skills
 
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](javascript.com)
@@ -39,10 +31,19 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 [![HTML](https://user-images.githubusercontent.com/99139310/178839914-67b126fc-f805-488d-943e-77276fe7b7b7.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [![CSS](https://user-images.githubusercontent.com/99139310/178839915-79ea749c-6ccf-476f-a79b-2c28cf8982cf.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=demul1&count_private=true&theme=dark&showicons=true)]()
+[![Contrubution Streak](https://github-readme-streak-stats.herokuapp.com/?user=demul1&theme=dark)]()
+
+[![Contrubution Graph](https://activity-graph.herokuapp.com/graph?username=demul1&hide_border=true&area=true&point=transparent&theme=react-dark)]()
+
 ## Projects
 
 I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on the Polygon Netowork. The DEX, token, and code will be available soon. 
 
-
+## Contact Info
+#### Email: demulcc@gmail.com
+#### Discord: [Demul#4757](https://discord.com/channels/@me)
 
 
