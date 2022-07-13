@@ -33,8 +33,8 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 
 ## Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=demul1&count_private=true&theme=dark&showicons=true)]()
-[![Contrubution Streak](https://github-readme-streak-stats.herokuapp.com/?user=demul1&theme=dark)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)]()
+[![Contrubution Streak](https://github-readme-streak-stats.herokuapp.com/?user=demul1&theme=react)]()
 
 [![Contrubution Graph](https://activity-graph.herokuapp.com/graph?username=demul1&hide_border=true&area=true&point=transparent&theme=react-dark)]()
 
