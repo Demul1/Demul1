@@ -20,18 +20,17 @@ Here are some ideas to get you started:
 I am a developer, who has a lot of experience in the cryptocurrency area as well as in game development. Some of my other hobbies include Tennis, watching movies, and reading. Some of the langauges I know include Solidity, Javascript, Python, C#, and HTML/CSS (if you count those). I have experience using Unity and Unreal Engine for game development.
 
 ## Contact Info
-#### Email: 
-#### [Discord](https://discord.com/channels/@me): Demul#4757
+#### Email: demulcc@gmail.com
+#### [Discord: Demul#4757](https://discord.com/channels/@me)
 
 ## Projects
 
 I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on the Polygon Netowork. The DEX, token, and code will be available soon. 
 
 ## Stats
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=demul1&count_private=true&theme=tokyonight&showicons=true)]()
 
-## Languages and skills
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&langs_count=5&theme=tokyonight)]()
 
 
 
