@@ -39,8 +39,6 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 
 ![Contrubution Graph](https://activity-graph.herokuapp.com/graph?username=demul1&hide_border=true&area=true&point=transparent&theme=react-dark)
 
-![Contribution Snake](https://user-images.githubusercontent.com/99139310/179380147-de83624a-ce6e-472d-93f9-d80845377e40.svg)
-
 ![Contrubution Streak](https://github-readme-streak-stats.herokuapp.com/?user=demul1&theme=react)
 
 ## Projects
