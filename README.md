@@ -42,7 +42,7 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 
 ## Projects
 
-I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on the Polygon Netowork. The DEX, token, and code will be available soon. 
+I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on the Polygon Network. The DEX, token, and code will be available soon. 
 
 ## Contact Info
 #### Email: demulcc@gmail.com
