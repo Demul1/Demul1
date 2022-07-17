@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 I am a developer, who has a lot of experience in the cryptocurrency area as well as in game development. Some of my other hobbies include Tennis, watching movies, and reading. Some of the langauges I know include Solidity, Javascript, Python, C#, and HTML/CSS (if you count those). I have experience using Unity and Unreal Engine for game development.
 
-## Skills
+## Skills!
+
 
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](javascript.com)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](javascript.com)
@@ -37,6 +38,8 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)
 
 ![Contrubution Graph](https://activity-graph.herokuapp.com/graph?username=demul1&hide_border=true&area=true&point=transparent&theme=react-dark)
+
+![Contribution Snake](https://user-images.githubusercontent.com/99139310/179380147-de83624a-ce6e-472d-93f9-d80845377e40.svg)
 
 ![Contrubution Streak](https://github-readme-streak-stats.herokuapp.com/?user=demul1&theme=react)
 
