@@ -22,12 +22,12 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 ## Skills
 
 
-[![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](javascript.com)
-[![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](javascript.com)
-[![Unity](https://user-images.githubusercontent.com/99139310/178839912-1878e2d4-e373-4437-b053-5dbfd67f6cb7.png)](unity.com)
+[![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
+[![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
+[![Unity](https://user-images.githubusercontent.com/99139310/178839912-1878e2d4-e373-4437-b053-5dbfd67f6cb7.png)](https://unity.com)
 [![C#](https://user-images.githubusercontent.com/99139310/178839916-d1924179-3c47-476c-9d44-eab13a6ca762.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Unreal Engine](https://user-images.githubusercontent.com/99139310/178839911-76d1ed46-e9de-47d7-adf4-1d8f4b8cfb8c.png)](unrealengine.com)
-[![Python](https://user-images.githubusercontent.com/99139310/178839917-351cd87d-2229-46ec-a2df-d8e1f33aa700.png)](python.com)
+[![Unreal Engine](https://user-images.githubusercontent.com/99139310/178839911-76d1ed46-e9de-47d7-adf4-1d8f4b8cfb8c.png)](https://unrealengine.com)
+[![Python](https://user-images.githubusercontent.com/99139310/178839917-351cd87d-2229-46ec-a2df-d8e1f33aa700.png)](https://python.com)
 [![Node.js](https://user-images.githubusercontent.com/99139310/178839910-a5dcd40f-89dd-4958-9170-4315181ed3f0.png)](https://nodejs.org/en/)
 [![HTML](https://user-images.githubusercontent.com/99139310/178839914-67b126fc-f805-488d-943e-77276fe7b7b7.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [![CSS](https://user-images.githubusercontent.com/99139310/178839915-79ea749c-6ccf-476f-a79b-2c28cf8982cf.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
