@@ -39,8 +39,6 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=demul1&hide_border=true&area=true&point=transparent&theme=react-dark)
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=demul1&theme=react)
-
 ## Projects
 
 I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on the Polygon Network. The DEX, token, and code will be available soon. 
