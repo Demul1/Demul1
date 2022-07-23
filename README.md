@@ -36,7 +36,6 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 [![Github](https://user-images.githubusercontent.com/99139310/180586687-e573df5c-0bd4-45a3-88d0-e6ce056e56cc.png)](https://github.com/)
 [![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
-[![Visual Studio](https://user-images.githubusercontent.com/99139310/180586692-acf4e7e0-324c-4803-b6fc-95c22372a8ab.png)](https://visualstudio.microsoft.com/)
 
 
 ## Stats
