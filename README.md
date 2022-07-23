@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a developer, who has a lot of experience in the cryptocurrency area as well as in game development. Some of my other hobbies include Tennis, watching movies, and reading. Some of the langauges I know include Solidity, Javascript, Python, C#, and HTML/CSS (if you count those). I have experience using Unity and Unreal Engine for game development.
+I am a developer, who has a lot of experience in the cryptocurrency area as well as in game development. Some of my other hobbies include Tennis, watching movies, and reading. Some of the langauges I know include Solidity, Javascript, Typescript Python, C#, and HTML/CSS (if you count those). I have experience using Unity and Unreal Engine for game development.
 
 ## Skills
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
