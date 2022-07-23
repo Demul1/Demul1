@@ -31,6 +31,14 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 [![Node.js](https://user-images.githubusercontent.com/99139310/178839910-a5dcd40f-89dd-4958-9170-4315181ed3f0.png)](https://nodejs.org/en/)
 [![HTML](https://user-images.githubusercontent.com/99139310/178839914-67b126fc-f805-488d-943e-77276fe7b7b7.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [![CSS](https://user-images.githubusercontent.com/99139310/178839915-79ea749c-6ccf-476f-a79b-2c28cf8982cf.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Ganache](https://user-images.githubusercontent.com/99139310/180586686-2f8296bb-c66d-4eff-913e-d8e09d87a1f3.png)](https://trufflesuite.com/ganache/)
+[![Github](https://user-images.githubusercontent.com/99139310/180586687-e573df5c-0bd4-45a3-88d0-e6ce056e56cc.png)](https://github.com/)
+[![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
+[![React](https://user-images.githubusercontent.com/99139310/180586690-f56d3dd5-aec6-47ba-b8b3-eb8b2e5d342b.png)](https://reactjs.org/)
+[![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
+[![Visual Studio](https://user-images.githubusercontent.com/99139310/180586692-acf4e7e0-324c-4803-b6fc-95c22372a8ab.png)](https://visualstudio.microsoft.com/)
+[![Webpack](https://user-images.githubusercontent.com/99139310/180586693-377c85d2-95d8-444f-8504-554e5b874eb5.png)](https://webpack.js.org/)
+
 
 ## Stats
 
