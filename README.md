@@ -53,4 +53,4 @@ I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on t
 
 #### Twitter: [@Demulme](https://twitter.com/Demulme)
 
-![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
