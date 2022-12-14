@@ -43,7 +43,7 @@ I am a developer, who has a lot of experience in the cryptocurrency area as well
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=demul1&hide_border=true&area=true&point=transparent&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Demul1&theme=react-dark)
 
 ## Projects
 
