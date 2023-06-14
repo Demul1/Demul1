@@ -51,6 +51,8 @@ I am currently working on a Uniswap like DEX to buy my ERC20 token, Demula, on t
 ## Contact Info
 #### Discord: [Demul#4757](https://discord.com/channels/@me)
 
-#### Twitter: [@Demulme](https://twitter.com/Demulme)
+#### Twitter: [@dylanchauhan11](https://twitter.com/dylanchauhan11)
+
+#### Instagram: [@chauhan.dylan](https://www.instagram.com/chauhan.dylan/)
 
 
