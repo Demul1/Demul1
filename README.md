@@ -9,7 +9,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 
 
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Demul1)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Hello+there+,+I'm+Demul1)](https://git.io/typing-svg) 
 <div align="center">
   
 ### Who am I?
