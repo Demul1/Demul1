@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
-
-#### I am an experienced developer who has a lot of experience in the cryptocurrency area as well as in game development. Some of the langauges I know include Solidity, Javascript, Typescript, Python, C#, and HTML/CSS (if you count those). I have experience using Unity and Unreal Engine for game development.
-
 ## Skills
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
@@ -35,7 +31,9 @@ Here are some ideas to get you started:
 [![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
+## Expertises
 
+### Cryptocurrency, game development, website building.
 ## Stats
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Demul1&bg_color=000000&color=14d8db&line=14d8db&point=ee00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
