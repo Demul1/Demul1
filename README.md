@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Demul1)](https://git.io/typing-svg)
+![wrapped_Demul1 (2)](https://github.com/Demul1/Demul1/assets/99139310/4dc8c25f-349d-45cc-8f67-aa975aa79ada)[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Demul1)](https://git.io/typing-svg)
 <!--
 **Demul1/Demul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,7 +44,8 @@ I am an experienced developer who has a lot of experience in the cryptocurrency 
 
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Demul1&theme=react-dark)
 
-https://Demul1.wrapped.run
+![Wrapped](https://github.com/Demul1/Demul1/assets/99139310/682f6f06-e7b9-48cc-993c-8c773064a6ba)
+
 ## Projects
 
 Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap)
