@@ -33,29 +33,21 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)
-# About Me 🙌
-<h2 align="center" font-weight="bold">
-Who am I?
 
+# About Me 🙌
+
+### Who am I?
 
 I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound interest in the sector. 
-</h2>
 
-<h2 align="center" font-weight="bold">
-What are my areas of expertise? 
-</h2>
+### What are my areas of expertise? 
 
-<h2 align="center">
 Cryptocurrency, game development, website building.
-</h2>
 
-<h2 align="center" font-weight="bold">
-What are some of your projects?
-</h2>
+### What are some of my projects?
 
-<h2 align="center">
-Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap)
-</h2>
+Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. 
+</div>
 
 # Contact Info 💬
 [![Discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/761454931030704128)
