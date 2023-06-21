@@ -7,6 +7,27 @@ https://www.vectorlogo.zone/?q=
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Demul1)](https://git.io/typing-svg)
+
+</div>
+
+# About Me 🙌
+
+<div align="center">
+  
+### Who am I?
+
+I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound interest in the sector. 
+
+### What are my areas of expertise? 
+
+Cryptocurrency, game development, website building.
+
+### What are some of my projects?
+
+Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private but am still active here. 
+
+</div>
+
 # Skills 💪
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
@@ -35,26 +56,6 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react" alt="Languages" height="200">
 <img src="https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="200">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demul1&theme=react&hide_border=false" alt="Contributions/Streaks" height="200">
-
-</div>
-
-# About Me 🙌
-
-<div align="center">
-  
-### Who am I?
-
-I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound interest in the sector. 
-
-### What are my areas of expertise? 
-
-Cryptocurrency, game development, website building.
-
-### What are some of my projects?
-
-Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private but am still active here. 
-
-</div>
 
 # Contact Info 💬
 <div align="center">
