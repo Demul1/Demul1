@@ -52,6 +52,6 @@ Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1
 
 [![Discord](https://github.com/Demul1/Demul1/assets/99139310/4b5b1fa3-d37b-4b2f-91ae-555cc67067a5)]()
 
-[![Twitter](https://github.com/Demul1/Demul1/assets/99139310/9677e2fe-fe31-46c8-9817-e810f6b20924=100x100)]()
+[![Twitter](https://github.com/Demul1/Demul1/assets/99139310/9677e2fe-fe31-46c8-9817-e810f6b20924 =100x100)]()
 
-[![Instagram](https://github.com/Demul1/Demul1/assets/99139310/afdb853b-404d-4be2-b2b3-8620ac15fd9c=100x100)]()
+[![Instagram](https://github.com/Demul1/Demul1/assets/99139310/afdb853b-404d-4be2-b2b3-8620ac15fd9c =100x100)]()
