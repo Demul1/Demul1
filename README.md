@@ -44,6 +44,7 @@ I am an experienced developer who has a lot of experience in the cryptocurrency 
 
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Demul1&theme=react-dark)
 
+![Wrapped](https://Demul1.wrapped.run)
 ## Projects
 
 Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap)
