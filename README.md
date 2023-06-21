@@ -31,9 +31,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 
 ![Wrapped](https://github.com/Demul1/Demul1/assets/99139310/682f6f06-e7b9-48cc-993c-8c773064a6ba)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react" alt="Languages" height="175">
+<img src="https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="175">
 # About Me 🙌
 
 <div align="center">
@@ -48,7 +47,7 @@ Cryptocurrency, game development, website building.
 
 ### What are some of my projects?
 
-Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. 
+Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private, but am still active here. 
 
 </div>
 
