@@ -36,9 +36,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 # About Me 🙌
 <h2 align="center" font-weight="bold">
 Who am I?
-</h2>
 
-<h2 align="center">
 I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound interest in the sector. 
 </h2>
 
