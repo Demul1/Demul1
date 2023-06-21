@@ -26,6 +26,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
 # Stats 🚀
+<div align="center">
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Demul1&bg_color=000000&color=14d8db&line=14d8db&point=ee00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -33,6 +34,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react" alt="Languages" height="200">
 <img src="https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="200">
+</div>
+
 # About Me 🙌
 
 <div align="center">
