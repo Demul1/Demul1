@@ -65,6 +65,5 @@ Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/761454931030704128)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dylanchauhan11)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/chauhan.dylan/)
-<img src="https://img.shields.io/github/followers/Demul1?label=Follow&style=social" height="50"/>
-
+<a href="https://github.com/Demul1"><img src="https://img.shields.io/github/followers/Demul1?label=Follow&style=social" height="50"/></a>
 </div>
