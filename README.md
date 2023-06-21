@@ -5,11 +5,11 @@ https://ashutosh00710.github.io/github-readme-activity-graph/
 https://wrapped.run/
 https://www.vectorlogo.zone/?q=
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
+https://readme-typing-svg.herokuapp.com
 -->
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Hello+there%2C+I'm+Demul1!" alt="Typing SVG" /></a>
 
-
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Hello+there,+I'm+Demul1)](https://git.io/typing-svg) 
 <div align="center">
   
 ### Who am I?
