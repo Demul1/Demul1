@@ -36,7 +36,7 @@ https://www.vectorlogo.zone/?q=
 
 Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap)
 
-## 💬 Contact Info 💬
+## Contact Info 💬
 [![Discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/761454931030704128)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dylanchauhan11)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/chauhan.dylan/)
