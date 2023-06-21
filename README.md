@@ -37,13 +37,12 @@ I am an experienced developer who has a lot of experience in the cryptocurrency 
 
 
 ## Stats
+![Wrapped](https://github.com/Demul1/Demul1/assets/99139310/682f6f06-e7b9-48cc-993c-8c773064a6ba)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)
 
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Demul1&theme=react-dark)
-
-![Wrapped](https://github.com/Demul1/Demul1/assets/99139310/682f6f06-e7b9-48cc-993c-8c773064a6ba)
 
 ## Projects
 
