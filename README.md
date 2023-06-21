@@ -17,7 +17,7 @@ https://readme-typing-svg.herokuapp.com
   
 ### Who am I?
 
-I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound interest in the sector. 
+I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound passion in the sector. 
 
 ### What are my areas of expertise? 
 
@@ -25,7 +25,7 @@ Cryptocurrency, game development, website building.
 
 ### What are some of my projects?
 
-Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private but am still active here. 
+Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). The website itself is no longer running, but the code is still accessible. I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private but am still active here. 
 
 </div>
 
