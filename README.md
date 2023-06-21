@@ -1,4 +1,3 @@
-![wrapped_Demul1 (2)](https://github.com/Demul1/Demul1/assets/99139310/4dc8c25f-349d-45cc-8f67-aa975aa79ada)[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Demul1)](https://git.io/typing-svg)
 <!--
 **Demul1/Demul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
