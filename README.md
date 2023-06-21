@@ -43,6 +43,8 @@ I am an experienced developer who has a lot of experience in the cryptocurrency 
 
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Demul1&theme=react-dark)
 
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Demul1&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Wrapped](https://github.com/Demul1/Demul1/assets/99139310/682f6f06-e7b9-48cc-993c-8c773064a6ba)
 ## Projects
 
