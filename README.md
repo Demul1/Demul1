@@ -50,12 +50,16 @@ Cryptocurrency, game development, website building.
 
 ### What are some of my projects?
 
-Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private, but am still active here. 
+Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private but am still active here. 
 
 </div>
 
 # Contact Info 💬
+<div align="center">
+  
 [![Discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/761454931030704128)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dylanchauhan11)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/chauhan.dylan/)
 <a href="https://github.com/Demul1"><img src="https://img.shields.io/github/followers/Demul1?label=Follow&style=social" height="50"/></a>
+
+</div>
