@@ -34,8 +34,9 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)
 # About Me 🙌
-
+<h2 align="center" font-weight="bold">
 Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap)
+</h2>
 
 # Contact Info 💬
 [![Discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/761454931030704128)
