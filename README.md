@@ -4,9 +4,10 @@ https://github.com/tandpfun/skill-icons#readme
 https://ashutosh00710.github.io/github-readme-activity-graph/
 https://wrapped.run/
 https://www.vectorlogo.zone/?q=
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Demul1)](https://git.io/typing-svg)
-## Skills 
+## Skills 💪
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
 [![Typescript](https://user-images.githubusercontent.com/99139310/180587435-202f49ee-35d9-4486-88ad-aa20732f5847.png)](https://www.typescriptlang.org/)
@@ -24,7 +25,7 @@ https://www.vectorlogo.zone/?q=
 [![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
-## Stats 
+## Stats 🚀
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Demul1&bg_color=000000&color=14d8db&line=14d8db&point=ee00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -32,7 +33,7 @@ https://www.vectorlogo.zone/?q=
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react)
-## About Me 
+## About Me 🙌
 
 Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap)
 
