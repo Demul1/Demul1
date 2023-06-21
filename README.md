@@ -57,6 +57,7 @@ Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react" alt="Languages" height="200">
 <img src="https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="200">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demul1&theme=react&hide_border=false" alt="Contributions/Streaks" height="200">
+</div>
 
 # Contact Info 💬
 <div align="center">
