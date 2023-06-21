@@ -29,10 +29,10 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Demul1&bg_color=000000&color=14d8db&line=14d8db&point=ee00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Wrapped](https://github.com/Demul1/Demul1/assets/99139310/682f6f06-e7b9-48cc-993c-8c773064a6ba)
+<img src="https://github.com/Demul1/Demul1/assets/99139310/682f6f06-e7b9-48cc-993c-8c773064a6ba" alt="Wrapped" height="300">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react" alt="Languages" height="175">
-<img src="https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="175">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demul1&theme=react" alt="Languages" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="200">
 # About Me 🙌
 
 <div align="center">
