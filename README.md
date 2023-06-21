@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 [![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
-## Expertises
-
-### Cryptocurrency, game development, website building.
 ## Stats
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Demul1&bg_color=000000&color=14d8db&line=14d8db&point=ee00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
