@@ -36,6 +36,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emo
 
 # About Me 🙌
 
+<div align="center">
+  
 ### Who am I?
 
 I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound interest in the sector. 
@@ -47,6 +49,7 @@ Cryptocurrency, game development, website building.
 ### What are some of my projects?
 
 Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). I'm currently working on improving my Javascript/Python skills. 
+
 </div>
 
 # Contact Info 💬
