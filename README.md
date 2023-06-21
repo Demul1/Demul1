@@ -50,4 +50,8 @@ Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1
 
 #### Instagram: [@chauhan.dylan](https://www.instagram.com/chauhan.dylan/)
 
+[![Discord](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
+[![Twitter](https://github.com/Demul1/Demul1/assets/99139310/9677e2fe-fe31-46c8-9817-e810f6b20924)](https://code.visualstudio.com/)
+
+[![Instagram](https://github.com/Demul1/Demul1/assets/99139310/afdb853b-404d-4be2-b2b3-8620ac15fd9c)](https://code.visualstudio.com/)
