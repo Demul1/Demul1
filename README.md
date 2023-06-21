@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap)
 
 ## Contact Info
-[![Discord](https://github.com/Demul1/Demul1/assets/99139310/df89fa9f-ec8a-4119-b2d1-abfb9544f076)](discordapp.com/users/761454931030704128)
+[![Discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/761454931030704128)
 
-[![Twitter](https://github.com/Demul1/Demul1/assets/99139310/ea2f2c7b-d44a-493a-a176-d53eaa599f0d)](https://twitter.com/dylanchauhan11)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dylanchauhan11)
 
-[![Instagram](https://github.com/Demul1/Demul1/assets/99139310/3ca2dd0d-9b94-4f07-b1ce-f3d14694478a)](https://www.instagram.com/chauhan.dylan/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/chauhan.dylan/)
