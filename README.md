@@ -14,14 +14,6 @@ https://readme-typing-svg.herokuapp.com
 
 # About Me 🙌
 <div align="center">
-  
-### Who am I?
-
-I'm a young developer operating out of the bay area. I've been an active programmer for the last couple of years, and have found a profound passion in the sector. 
-
-### What are my areas of expertise? 
-
-Cryptocurrency, game development, website building.
 
 ### What are some of my projects?
 
