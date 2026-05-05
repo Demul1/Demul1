@@ -39,11 +39,3 @@ https://readme-typing-svg.herokuapp.com
 <img src="https://github-readme-stats.vercel.app/api?username=demul1&show_icons=true&count_private=true&theme=react" alt="Github Stats" height="200">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demul1&theme=react&hide_border=false" alt="Contributions/Streaks" height="200">
 </div>
-
-# Contact Info 💬
-<div align="center">
-  
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/761454931030704128)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dylanchauhan11)
-<a href="https://github.com/Demul1"><img src="https://img.shields.io/github/followers/Demul1?label=Follow&style=social" height="50"/></a>
-</div>
