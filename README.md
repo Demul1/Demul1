@@ -13,8 +13,6 @@ https://readme-typing-svg.herokuapp.com
 [![Typescript](https://user-images.githubusercontent.com/99139310/180587435-202f49ee-35d9-4486-88ad-aa20732f5847.png)](https://www.typescriptlang.org/)
 [![React](https://user-images.githubusercontent.com/99139310/180586690-f56d3dd5-aec6-47ba-b8b3-eb8b2e5d342b.png)](https://reactjs.org/)
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
-[![Unity](https://user-images.githubusercontent.com/99139310/178839912-1878e2d4-e373-4437-b053-5dbfd67f6cb7.png)](https://unity.com)
-[![Unreal Engine](https://user-images.githubusercontent.com/99139310/180587525-2ea96da3-107a-4527-8340-323cb666e2a0.jpg)](https://unrealengine.com)
 [![Ganache](https://user-images.githubusercontent.com/99139310/180586686-2f8296bb-c66d-4eff-913e-d8e09d87a1f3.png)](https://trufflesuite.com/ganache/)
 [![Webpack](https://user-images.githubusercontent.com/99139310/180586693-377c85d2-95d8-444f-8504-554e5b874eb5.png)](https://webpack.js.org/)
 [![C#](https://user-images.githubusercontent.com/99139310/178839916-d1924179-3c47-476c-9d44-eab13a6ca762.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
