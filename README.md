@@ -7,11 +7,6 @@ https://www.vectorlogo.zone/?q=
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
 https://readme-typing-svg.herokuapp.com
 -->
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Hello+there%2C+I'm+Demul1!" alt="Typing SVG" />
-</div>
-
 # Skills
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
