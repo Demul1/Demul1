@@ -12,7 +12,7 @@ https://readme-typing-svg.herokuapp.com
 <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Hello+there%2C+I'm+Demul1!" alt="Typing SVG" />
 </div>
 
-# Skills 💪
+# Skills
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
 [![Typescript](https://user-images.githubusercontent.com/99139310/180587435-202f49ee-35d9-4486-88ad-aa20732f5847.png)](https://www.typescriptlang.org/)
@@ -30,7 +30,7 @@ https://readme-typing-svg.herokuapp.com
 [![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
-# Stats 🚀
+# Stats
 <div align="center">
 
 
