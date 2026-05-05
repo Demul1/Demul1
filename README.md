@@ -12,15 +12,6 @@ https://readme-typing-svg.herokuapp.com
 <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Hello+there%2C+I'm+Demul1!" alt="Typing SVG" />
 </div>
 
-# About Me 🙌
-<div align="center">
-
-### What are some of my projects?
-
-Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1/DemulaSwap). The website itself is no longer running, but the code is still accessible. I'm currently working on improving my Javascript/Python skills. I prefer to keep most of my projects private but am still active here. 
-
-</div>
-
 # Skills 💪
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
@@ -41,8 +32,6 @@ Feel free to check out a project of mine: [DemulaSwap](https://github.com/Demul1
 
 # Stats 🚀
 <div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Demul1&bg_color=000000&color=14d8db&line=14d8db&point=ee00ff&area=true&hide_border=true)
 
 
 
